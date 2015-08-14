@@ -1,5 +1,5 @@
-# ConwaySimCopy
-Conway's Simulation of Life
+# Conway's Simulation of Life
+
 
 This is a simulation that has cells evolve through generations. Whether or not a cell survives, reproduces, or dies is determined by a set of rules. From the wikipedia page: 
 
